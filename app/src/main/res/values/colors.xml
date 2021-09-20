@@ -13,9 +13,5 @@
     <color name="soft_blue">#e6f0fa</color>
     <color name="soft_dark_blue">#b3d1f0</color>
 
-    <color name="red_orange">#F83A26</color>
-
-    <color name="light_grey_200">#FBFBFB</color>
     <color name="light_grey">#F6F6F6</color>
-    <color name="light_grey_600">#EDEDED</color>
 </resources>
