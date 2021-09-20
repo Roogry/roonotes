@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roonotes</string>
+
+    <string name="new_note">New Note</string>
+    <string name="open_note">Open Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="note_placeholder">Write something here</string>
+</resources>
